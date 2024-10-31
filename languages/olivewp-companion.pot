@@ -1,0 +1,710 @@
+# OliveWp Companion
+# Copyright 2022 ...
+# This file is distributed under the GNU General Public License v3 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: "
+"OliveWp Companion "
+"v1.0.0\n"
+"Report-Msgid-Bugs-To: "
+"Translator Name "
+"<translations@example."
+"com>\n"
+"POT-Creation-Date: "
+"2022-06-29 19:31+0530\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your "
+"Name <you@example.com>\n"
+"Language-Team: Your Team "
+"<translations@example."
+"com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/"
+"plain; charset=UTF-8\n"
+"Content-Transfer-"
+"Encoding: 8bit\n"
+"Plural-Forms: "
+"nplurals=2; plural=n != "
+"1;\n"
+"X-Textdomain-Support: "
+"yesX-Generator: Poedit "
+"1.6.4\n"
+"X-Poedit-SourceCharset: "
+"UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;esc_html_e;"
+"esc_html_x:1,2c;"
+"esc_html__;esc_attr_e;"
+"esc_attr_x:1,2c;"
+"esc_attr__;_ex:1,2c;"
+"_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;"
+"_n:1,2;_n_noop:1,2;"
+"__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,"
+"_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit "
+"3.0.1\n"
+"X-Poedit-"
+"SearchPath-0: .\n"
+
+#: admin/owc-script.php:19
+msgid "Installing"
+msgstr ""
+
+#: admin/owc-script.php:20
+msgid "Activating"
+msgstr ""
+
+#: admin/owc-script.php:21
+msgid "Error"
+msgstr ""
+
+#: admin/view.php:16
+msgid ""
+"The most innovative, "
+"intuitive and lightning "
+"fast WordPress theme. "
+"Build your next web "
+"project visually, in no "
+"time."
+msgstr ""
+
+#: admin/view.php:22
+msgid "Home"
+msgstr ""
+
+#: admin/view.php:24
+#: admin/view.php:31
+msgid "Extensions"
+msgstr ""
+
+#: admin/view.php:26
+msgid "Recommended Plugin"
+msgstr ""
+
+#: admin/view.php:28
+#: admin/view.php:141
+msgid "Changelog"
+msgstr ""
+
+#: admin/view.php:62
+#, php-format
+msgid ""
+"Additional features in "
+"%s Plus"
+msgstr ""
+
+#: admin/view.php:66
+msgid "Header Presets"
+msgstr ""
+
+#: admin/view.php:70
+msgid ""
+"Predefined Color Schemes"
+msgstr ""
+
+#: admin/view.php:74
+msgid ""
+"Multiple Search Effects"
+msgstr ""
+
+#: admin/view.php:78
+msgid ""
+"Post Navigation Styles"
+msgstr ""
+
+#: admin/view.php:82
+msgid ""
+"Enhanced Footer Bar "
+"Settings"
+msgstr ""
+
+#: admin/view.php:86
+msgid ""
+"Additional Colors & "
+"Background Features"
+msgstr ""
+
+#: admin/view.php:93
+msgid ""
+"Multiple Blog Templates"
+msgstr ""
+
+#: admin/view.php:97
+msgid ""
+"Multiple Preloader "
+"Designs"
+msgstr ""
+
+#: admin/view.php:101
+msgid "Breadcrumb Settings"
+msgstr ""
+
+#: admin/view.php:106
+msgid ""
+"Enhanced Footer Widgets "
+"Settings"
+msgstr ""
+
+#: admin/view.php:112
+msgid ""
+"Additional Typography "
+"Features"
+msgstr ""
+
+#: admin/view.php:116
+msgid ""
+"Enhanced Container Width "
+"Settings"
+msgstr ""
+
+#: admin/view.php:125
+msgid "Useful Links"
+msgstr ""
+
+#: admin/view.php:129
+#: inc/spice-starter-sites/demo-content/setup.php:246
+msgid "Starter Sites"
+msgstr ""
+
+#: admin/view.php:133
+msgid ""
+"Your feedback is "
+"valuable to us"
+msgstr ""
+
+#: admin/view.php:137
+msgid "Pre-sales enquiry"
+msgstr ""
+
+#: admin/view.php:148
+#, php-format
+msgid "%s Theme Support"
+msgstr ""
+
+#: admin/view.php:154
+#, php-format
+msgid "%s Plus Details"
+msgstr ""
+
+#: admin/view.php:158
+msgid "Free vs Plus"
+msgstr ""
+
+#: admin/view.php:171
+msgid ""
+"Customizer Shortcuts"
+msgstr ""
+
+#: admin/view.php:174
+msgid "Color Options"
+msgstr ""
+
+#: admin/view.php:175
+msgid ""
+"Set the theme global "
+"colors, select the font, "
+"button and background "
+"colors."
+msgstr ""
+
+#: admin/view.php:177
+#: admin/view.php:184
+#: admin/view.php:190
+#: admin/view.php:196
+#: admin/view.php:204
+#: admin/view.php:211
+#: admin/view.php:218
+#: admin/view.php:225
+msgid "Go to option"
+msgstr ""
+
+#: admin/view.php:181
+msgid "Breadcrumb"
+msgstr ""
+
+#: admin/view.php:182
+msgid ""
+"Set the theme "
+"Breadcrumb, Page Title "
+"Position, Markup and "
+"Alignment."
+msgstr ""
+
+#: admin/view.php:187
+msgid "Container Width"
+msgstr ""
+
+#: admin/view.php:188
+msgid ""
+"Set the theme Container "
+"Width, adjust also "
+"Content Width and "
+"Sidebar Width."
+msgstr ""
+
+#: admin/view.php:193
+msgid "Sidebar Layout"
+msgstr ""
+
+#: admin/view.php:194
+msgid ""
+"Set the theme Sidebar "
+"Layout, select Blog/"
+"Archives, Single and "
+"Page Layout."
+msgstr ""
+
+#: admin/view.php:201
+msgid "Blog Options"
+msgstr ""
+
+#: admin/view.php:202
+msgid ""
+"Set the theme Blog "
+"Layout, select Blog/"
+"Archives, Single and "
+"Meta settings."
+msgstr ""
+
+#: admin/view.php:208
+msgid ""
+"Theme Style Settings"
+msgstr ""
+
+#: admin/view.php:209
+msgid ""
+"Set the theme Style & "
+"Layout, Select custom "
+"color skin and theme "
+"Layout."
+msgstr ""
+
+#: admin/view.php:215
+msgid "General Settings"
+msgstr ""
+
+#: admin/view.php:216
+msgid ""
+"Set the theme General "
+"Settings, select "
+"Preloader, Sticky "
+"Header, Breadcrumb etc."
+msgstr ""
+
+#: admin/view.php:222
+#: inc/trending-post/customizer/customizer-trending-post.php:267
+msgid "Typography Settings"
+msgstr ""
+
+#: admin/view.php:223
+msgid ""
+"Set the theme Typography "
+"Settings, select Fonts "
+"Families, Size and Line "
+"height."
+msgstr ""
+
+#: admin/view.php:229
+msgid ""
+"Need help or advice?"
+msgstr ""
+
+#: admin/view.php:230
+msgid ""
+"Got a question or need "
+"help with the theme? You "
+"can always submit a "
+"support ticket or ask "
+"for help from our "
+"support team."
+msgstr ""
+
+#: admin/view.php:231
+msgid ""
+"Submit a Support Ticket"
+msgstr ""
+
+#: admin/view.php:237
+#: admin/view.php:336
+#: inc/trending-post/customizer/customizer-trending-post.php:16
+msgid "Trending Posts"
+msgstr ""
+
+#: admin/view.php:238
+#: admin/view.php:337
+msgid ""
+"Highlight your most "
+"popular posts or "
+"products based on the "
+"number of comments or "
+"reviews they have gotten "
+"in the specified period "
+"of time."
+msgstr ""
+
+#: admin/view.php:250
+#: admin/view.php:253
+#: admin/view.php:275
+#: admin/view.php:278
+#: admin/view.php:349
+#: admin/view.php:352
+#: admin/view.php:374
+#: admin/view.php:377
+msgid "Activate"
+msgstr ""
+
+#: admin/view.php:256
+#: admin/view.php:281
+#: admin/view.php:355
+#: admin/view.php:380
+msgid "Deactivate"
+msgstr ""
+
+#: admin/view.php:262
+#: admin/view.php:361
+msgid "Spice Starter Sites"
+msgstr ""
+
+#: admin/view.php:263
+#: admin/view.php:362
+msgid ""
+"The plugin allows you to "
+"create professional "
+"designed pixel perfect "
+"websites in minutes. "
+"Import the stater sites "
+"to create the websites."
+msgstr ""
+
+#: inc/spice-starter-sites/demo-content/setup.php:20
+msgid "Construction"
+msgstr ""
+
+#: inc/spice-starter-sites/demo-content/setup.php:29
+msgid "Architect"
+msgstr ""
+
+#: inc/spice-starter-sites/demo-content/setup.php:38
+msgid "Charity"
+msgstr ""
+
+#: inc/spice-starter-sites/demo-content/setup.php:47
+msgid ""
+"Professional Services"
+msgstr ""
+
+#: inc/spice-starter-sites/demo-content/setup.php:56
+msgid "Dental Care"
+msgstr ""
+
+#: inc/spice-starter-sites/demo-content/setup.php:65
+msgid "Digital Marketing"
+msgstr ""
+
+#: inc/spice-starter-sites/demo-content/setup.php:74
+msgid "Modern Agency"
+msgstr ""
+
+#: inc/spice-starter-sites/demo-content/setup.php:83
+msgid "Office"
+msgstr ""
+
+#: inc/spice-starter-sites/demo-content/setup.php:92
+msgid "Business"
+msgstr ""
+
+#: inc/spice-starter-sites/demo-content/setup.php:98
+msgid "Travel"
+msgstr ""
+
+#: inc/spice-starter-sites/demo-content/setup.php:104
+msgid "Spacare"
+msgstr ""
+
+#: inc/spice-starter-sites/demo-content/setup.php:110
+msgid "Interior"
+msgstr ""
+
+#: inc/spice-starter-sites/demo-content/setup.php:116
+msgid "Real Estate"
+msgstr ""
+
+#: inc/spice-starter-sites/demo-content/setup.php:122
+msgid "Skin Spa"
+msgstr ""
+
+#: inc/spice-starter-sites/demo-content/setup.php:128
+msgid "Healthcare"
+msgstr ""
+
+#: inc/spice-starter-sites/demo-content/setup.php:134
+msgid "Gymer"
+msgstr ""
+
+#: inc/spice-starter-sites/demo-content/setup.php:140
+msgid "Yoga"
+msgstr ""
+
+#: inc/spice-starter-sites/demo-content/setup.php:146
+msgid "Massage"
+msgstr ""
+
+#: inc/spice-starter-sites/demo-content/setup.php:152
+msgid "Finance"
+msgstr ""
+
+#: inc/spice-starter-sites/demo-content/setup.php:158
+msgid "Industry"
+msgstr ""
+
+#: inc/spice-starter-sites/demo-content/setup.php:164
+msgid "Coffee Shop"
+msgstr ""
+
+#: inc/spice-starter-sites/demo-content/setup.php:170
+msgid "Insurance"
+msgstr ""
+
+#: inc/spice-starter-sites/demo-content/setup.php:176
+msgid "Creative Agency"
+msgstr ""
+
+#: inc/spice-starter-sites/demo-content/setup.php:182
+msgid "Adventure"
+msgstr ""
+
+#: inc/spice-starter-sites/demo-content/setup.php:188
+msgid "Carpenter"
+msgstr ""
+
+#: inc/spice-starter-sites/demo-content/setup.php:194
+msgid "Startup Agency"
+msgstr ""
+
+#: inc/spice-starter-sites/demo-content/setup.php:245
+msgid ""
+"One Click Demo Import"
+msgstr ""
+
+#: inc/trending-post/customizer/customizer-trending-post.php:23
+msgid "General"
+msgstr ""
+
+#: inc/trending-post/customizer/customizer-trending-post.php:30
+#: inc/trending-post/olivewp-companion-trending-post.php:118
+msgid "Trending Now"
+msgstr ""
+
+#: inc/trending-post/customizer/customizer-trending-post.php:37
+msgid "Title"
+msgstr ""
+
+#: inc/trending-post/customizer/customizer-trending-post.php:54
+msgid "Title Tag"
+msgstr ""
+
+#: inc/trending-post/customizer/customizer-trending-post.php:60
+msgid "Heading H1"
+msgstr ""
+
+#: inc/trending-post/customizer/customizer-trending-post.php:61
+msgid "Heading H2"
+msgstr ""
+
+#: inc/trending-post/customizer/customizer-trending-post.php:62
+msgid "Heading H3"
+msgstr ""
+
+#: inc/trending-post/customizer/customizer-trending-post.php:63
+msgid "Heading H4"
+msgstr ""
+
+#: inc/trending-post/customizer/customizer-trending-post.php:64
+msgid "Heading H5"
+msgstr ""
+
+#: inc/trending-post/customizer/customizer-trending-post.php:65
+msgid "Heading H6"
+msgstr ""
+
+#: inc/trending-post/customizer/customizer-trending-post.php:81
+msgid "Post Type"
+msgstr ""
+
+#: inc/trending-post/customizer/customizer-trending-post.php:87
+msgid "Posts"
+msgstr ""
+
+#: inc/trending-post/customizer/customizer-trending-post.php:88
+msgid "Products"
+msgstr ""
+
+#: inc/trending-post/customizer/customizer-trending-post.php:103
+msgid "Source"
+msgstr ""
+
+#: inc/trending-post/customizer/customizer-trending-post.php:109
+#: inc/trending-post/customizer/customizer-trending-post.php:162
+msgid "Taxonomies"
+msgstr ""
+
+#: inc/trending-post/customizer/customizer-trending-post.php:110
+msgid "Custom Query"
+msgstr ""
+
+#: inc/trending-post/customizer/customizer-trending-post.php:125
+msgid "Post ID"
+msgstr ""
+
+#: inc/trending-post/customizer/customizer-trending-post.php:126
+msgid ""
+"Separate posts ID by "
+"comma. How to find the "
+"post ID."
+msgstr ""
+
+#: inc/trending-post/customizer/customizer-trending-post.php:143
+msgid "Category"
+msgstr ""
+
+#: inc/trending-post/customizer/customizer-trending-post.php:147
+msgid ""
+"Please select category"
+msgstr ""
+
+#: inc/trending-post/customizer/customizer-trending-post.php:166
+msgid ""
+"Please select Taxonomies"
+msgstr ""
+
+#: inc/trending-post/customizer/customizer-trending-post.php:182
+msgid "Trending From"
+msgstr ""
+
+#: inc/trending-post/customizer/customizer-trending-post.php:188
+msgid "All"
+msgstr ""
+
+#: inc/trending-post/customizer/customizer-trending-post.php:189
+msgid "Last 24 Hours "
+msgstr ""
+
+#: inc/trending-post/customizer/customizer-trending-post.php:190
+msgid "Last 7 Days "
+msgstr ""
+
+#: inc/trending-post/customizer/customizer-trending-post.php:191
+msgid "Last Month "
+msgstr ""
+
+#: inc/trending-post/customizer/customizer-trending-post.php:206
+msgid ""
+"Container Visibility"
+msgstr ""
+
+#: inc/trending-post/customizer/customizer-trending-post.php:211
+msgid "Desktop"
+msgstr ""
+
+#: inc/trending-post/customizer/customizer-trending-post.php:215
+msgid "Ipad"
+msgstr ""
+
+#: inc/trending-post/customizer/customizer-trending-post.php:219
+msgid "Mobile"
+msgstr ""
+
+#: inc/trending-post/customizer/customizer-trending-post.php:236
+msgid ""
+"Container Inner Spacing "
+"(In px)"
+msgstr ""
+
+#: inc/trending-post/customizer/customizer-trending-post.php:281
+#: inc/trending-post/customizer/customizer-trending-post.php:576
+msgid ""
+"Enable to apply the "
+"settings"
+msgstr ""
+
+#: inc/trending-post/customizer/customizer-trending-post.php:292
+msgid "Section Title"
+msgstr ""
+
+#: inc/trending-post/customizer/customizer-trending-post.php:318
+#: inc/trending-post/customizer/customizer-trending-post.php:454
+msgid "Font family"
+msgstr ""
+
+#: inc/trending-post/customizer/customizer-trending-post.php:335
+#: inc/trending-post/customizer/customizer-trending-post.php:470
+msgid "Font style"
+msgstr ""
+
+#: inc/trending-post/customizer/customizer-trending-post.php:354
+#: inc/trending-post/customizer/customizer-trending-post.php:487
+msgid "Text Transform"
+msgstr ""
+
+#: inc/trending-post/customizer/customizer-trending-post.php:372
+#: inc/trending-post/customizer/customizer-trending-post.php:504
+msgid "Font size (px)"
+msgstr ""
+
+#: inc/trending-post/customizer/customizer-trending-post.php:392
+#: inc/trending-post/customizer/customizer-trending-post.php:524
+msgid "Line Height (px)"
+msgstr ""
+
+#: inc/trending-post/customizer/customizer-trending-post.php:413
+#: inc/trending-post/customizer/customizer-trending-post.php:544
+msgid "Font Weight"
+msgstr ""
+
+#: inc/trending-post/customizer/customizer-trending-post.php:428
+msgid "Post Title"
+msgstr ""
+
+#: inc/trending-post/customizer/customizer-trending-post.php:561
+msgid "Color Settings"
+msgstr ""
+
+#: inc/trending-post/customizer/customizer-trending-post.php:592
+msgid "Section Title Color"
+msgstr ""
+
+#: inc/trending-post/customizer/customizer-trending-post.php:608
+msgid "Post Title Color"
+msgstr ""
+
+#: inc/trending-post/customizer/customizer-trending-post.php:624
+msgid ""
+"Post Title Hover Color"
+msgstr ""
+
+#: inc/trending-post/customizer/customizer-trending-post.php:640
+msgid "Background Color"
+msgstr ""
+
+#: olivewp-companion.php:141
+msgid ""
+"\"Spice Starter Sites\" "
+"requires \"One Click "
+"Demo Import\" to be "
+"installed and activated."
+msgstr ""
+
+#: olivewp-companion.php:147
+msgid ""
+"Spice Starter Sites "
+"requires PHP 5.4. Please "
+"contact your host to "
+"upgrade your PHP. The "
+"plugin was <strong>not</"
+"strong> activated."
+msgstr ""

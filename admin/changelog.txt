@@ -1,0 +1,10 @@
+==== Changelog ====
+
+@Version 0.9
+* Added theme options page and Spice Starter Site extensions.
+
+@Version 0.2
+* Resolved issues mentioned by the reviewer.
+
+@Version 0.1
+* Initial Release.
